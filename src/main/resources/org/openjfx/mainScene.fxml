@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml"
+            fx:controller="org.openjfx.controllers.MainController"
+            prefWidth="2560" prefHeight="1600">
+    <children>
+        <Label fx:id="label" layoutX="50" layoutY="80" text="Placeholder Text"/>
+    </children>
+</AnchorPane>
